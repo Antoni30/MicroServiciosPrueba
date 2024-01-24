@@ -21,7 +21,7 @@ Con esto ya deben estar corriendo los tres microservicios con las siguientes URL
 
 Alumnos: ```http://localhost:2024/api/alumnos```
 
-Tareas: ```http://localhost:2000/api/alumnos```
+Tareas: ```http://localhost:2000/api/tareas```
 
 Materias: ```http://localhost:3000/api/materias```
 
